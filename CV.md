@@ -48,7 +48,7 @@ LANGUAGES
 -
 
 * ITALIAN - Native
-* ENGLISH - level C1 gained thanks to a bachelor degree completely taught in English language.
+* ENGLISH - level C1 
 * GERMAN – A2.1
 
 
