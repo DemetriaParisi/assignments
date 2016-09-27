@@ -1,3 +1,3 @@
 # assignments
 
-[My Curriculum Vitae](assignments/CV.md)
+[My Curriculum Vitae](https://github.com/DemetriaParisi/assignments/blob/master/CV.md)
