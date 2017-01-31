@@ -6,4 +6,3 @@
 
 - [Assignment 3: Python] (https://fxxmiles.github.io/Python_assignment_acemoglu.html)
 
-- [Assignment 3: Python.md] (https://github.com/fxxmiles/Python/blob/master/Python/Python.md)
